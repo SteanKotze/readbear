@@ -74,7 +74,7 @@ def get_current_date_time():
 
 def calculate_trade_difference(old_market_value, current_market_value):
     trade_difference = round( 100.0 * ( current_market_value - old_market_value ) / old_market_value, 2)
-    if (trade_difference > 0.0):
+    if (trade_difference >= 0.0):
         return("+" + str( trade_difference ))
     else:
         return str(trade_difference)
