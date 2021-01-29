@@ -17,6 +17,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "build:css": "tailwind build src/tailwind.css -o src/App.css",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
