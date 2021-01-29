@@ -7,3 +7,14 @@ Write a python program, which pulls the latest “ETHZAR” pair value from the 
 2021-01-20 13:22:20 - Last trade 20670.0 : (-0.8%)
 2021-01-20 13:22:30 - Last trade 20659.0 : (-0.05%)
 ```
+
+
+Python Version
+```
+3.9.1
+```
+
+Pip Version
+```
+20.2.3
+```
