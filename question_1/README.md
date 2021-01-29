@@ -7,3 +7,21 @@ Write a python program, which pulls the latest “ETHZAR” pair value from the 
 2021-01-20 13:22:20 - Last trade 20670.0 : (-0.8%)
 2021-01-20 13:22:30 - Last trade 20659.0 : (-0.05%)
 ```
+
+#   Required Software
+Python Version
+```
+3.9.1
+```
+
+Pip Version
+```
+21.0
+```
+#   To Run
+If python has been added to your PATH variable in Win10, then you can run the following command from this directory to run the script:
+```
+python app.py
+```
+
+To end the script, simply press Ctrl + C. It might take a couple of seconds to end.
