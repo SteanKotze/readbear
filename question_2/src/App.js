@@ -7,12 +7,12 @@ function App() {
     <div class="App flex flex-col min-h-screen">
       <nav class="md:flex pt-6 lg:px-20 shadow-rb_md_header">
         <div class="container flex justify-start pb-6">
-          <a href="" class="text-48px font-bold text-black md:pl-20">app.</a>
-          <a href="" class="text-48px font-bold text-rb_purple">me</a>
+          <a href="#" class="text-48px font-bold text-black md:pl-20">app.</a>
+          <a href="#" class="text-48px font-bold text-rb_purple">me</a>
         </div>
         <div class="container md:flex md:justify-end md:pr-20">
-          <a href="" class="text-26px font-bold text-rb_purple md:pb-5 pt-1 w-133px md:text-center">Why</a>
-          <a href="" class="text-26px font-bold text-rb_purple pb-5 pt-1 w-133px md:text-center">Contact</a>
+          <a href="#" class="text-26px font-bold text-rb_purple md:pb-5 pt-1 w-133px md:text-center">Why</a>
+          <a href="#" class="text-26px font-bold text-rb_purple pb-5 pt-1 w-133px md:text-center">Contact</a>
         </div>
       </nav>
       <div class="static body lg:flex flex-grow lg:px-20">
