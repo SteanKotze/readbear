@@ -1,0 +1,86 @@
+/* === Body === */
+.body {
+    margin-top: 144px;
+}
+
+.body_half {
+    width: 50%;
+}
+
+.pl_88 {
+    padding-left: 88px;
+}
+
+.img-w700 {
+    position: relative;
+    margin-left: -160px;
+    min-width: 700px;
+}
+
+.bg-rect {
+    width: 331px;
+    height: 26px;
+    background-color: rgba(105, 48, 195, 0.4);
+    position: aboslute !important;
+    top: 345px;
+    left: 330px;
+}
+
+.email-input {
+    border-radius: 15px;
+    border: 0.1px solid rgba(105, 48, 195, 0.25);
+    box-shadow: 0 0 10px 0 rgba(105, 48, 195, 0.32);
+    height: 70px;
+    width: 365px;
+}
+
+.email-button {
+    padding-top: 18px;
+    display: inline-block;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    background-color: #6930C3;
+    height: 70px;
+    width: 365px;
+}
+
+/* === Fonts === */
+.fc-dark-gray {
+    color: #686868;
+}
+
+.fs-22 {
+    font-size: 22px;
+}
+
+.fs-26 {
+    font-size: 26px;
+}
+
+.fs-96 {
+    font-size: 96px;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+/*  === Footer === */
+.footer {
+    height: 132px;
+    font-size: 22px;
+}
+
+.footer_text {
+    height: 48px;
+}
+
+.footer_box {
+    width: 100px;
+    text-align: center;
+}
